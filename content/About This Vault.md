@@ -26,4 +26,4 @@ I don't have pixel-level access to the original poster, so the branch and sub-to
 
 ## Extending it
 
-To add a new node: create a note, link it from at least one existing note with `[[Double Brackets]]`, and add relevant tags. Obsidian's graph view and Quartz's generated site will pick it up automatically — no manual index maintenance needed.
+To add a new node: create a note, link it from at least one existing note with `[[Double Brackets]]`, and add relevant tags. Obsidian's graph view and Quartz's generated site will pick it up automatically — no manual index maintenance needed. test
